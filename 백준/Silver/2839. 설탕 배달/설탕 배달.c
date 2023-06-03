@@ -1,3 +1,4 @@
+/* 2839번 문자열 (C언어) */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
@@ -35,4 +36,6 @@ int main(void) {
 	// N킬로그램을 정확하게 나눌 수 있다면 상근이가 배달하는 설탕봉지 개수 출력
 	else 
 		printf("%d\n", cnt);
+
+	return 0;
 }
