@@ -66,3 +66,4 @@ int main(void) {
         → #include <iostream>에는 #include <string>이 내장되어 있음
         → #include <string>을 #include <cstring> 또는 #include <string.h> 로 수정 (백준에서는 이렇게 사용해야 하는건가.. 흠...)
 */
+

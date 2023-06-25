@@ -32,3 +32,4 @@ int main(void) {
 	cout << avg;
 	return 0;
 }
+
