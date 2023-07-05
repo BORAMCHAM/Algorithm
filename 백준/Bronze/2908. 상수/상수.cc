@@ -1,4 +1,4 @@
-/* 2908번 상수(C++) */
+/* 2908번 상수 (C++) */
 #include <iostream>
 #include <algorithm>
 
